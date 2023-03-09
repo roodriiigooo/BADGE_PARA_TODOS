@@ -23,7 +23,7 @@ Um repositório feito com propósito de farmar badges, traduzido diretamente do 
 
 # 🏅 Exibindo Conquistas 🏅
 
-#### A exibição de conquistas em seu perfil é totalmente opcional; por padrão, eles podem ser vistos por qualquer pessoa que visualize seu perfil público.
+#### A exibição de conquistas em seu perfil é totalmente opcional. Por padrão, eles podem ser vistos por qualquer pessoa que visualize seu perfil público.
 
 #### Você pode cancelar a exibição de conquistas em seu perfil acessando sua [configuração](https://github.com/settings).
 
