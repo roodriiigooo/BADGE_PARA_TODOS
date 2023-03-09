@@ -1,2 +1,2 @@
-# BADGE_PARA_TODOS
+# BADGE PARA TODOS
 Um repositório para farmar badges
