@@ -2,3 +2,6 @@ Rodrigo: Eu ainda não tenho nenhuma Badge :C
 Rich: Vou te ajudar, deixe-me colocar meu nome primeiro :D
 Rich: Agora aceite ou recuse esse pull request com 5 minutos! Valendo!
 Rodrigo: Você quer ser um co-autor? Já te adicionei :D
+
+Pergunta: Por que os programadores preferem o frio ao calor?
+Resposta: Porque no frio eles podem usar mais casacos, enquanto no calor eles só têm um refresh (atualização) por minuto!
